@@ -28,7 +28,7 @@ package testrefactorizacion;
  *
  * @author xavi
  */
-public class TestRefactorizacion {
+public class Pruebas {
  /**
  * @param args the command line arguments
  */

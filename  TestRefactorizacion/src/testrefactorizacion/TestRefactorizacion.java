@@ -8,8 +8,7 @@ package testrefactorizacion;
 /**
  *
  * @author ana
- * TarefaII
- * Proba dende Subversion
+  * Proba dende Subversion
  */
 public class TestRefactorizacion {
 
